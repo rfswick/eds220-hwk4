@@ -1,2 +1,2 @@
-# eds220-hwk4
-Homework 4 for EDS 220.
+Visualizing the Thomas Fire burn scar through false color
+
