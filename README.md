@@ -1,2 +1,2 @@
-Visualizing the Thomas Fire burn scar through false color
+## Visualizing the Thomas Fire burn scar through false color
 
